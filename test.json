@@ -5,9 +5,9 @@
   "vlink": "https://c12v3.viditnow.com/UpFiles/2021/8/22/42/196226/720p.m3u8"
   },
 {
-  "teams": "Atletico Madrid vs Elche",
+  "teams": "Atletico Madrid 1-0 Elche",
   "matchviewUrl": "https://imgmove.com/public/img/temp_img_web/pmi218d7086Af20AqMq0.jpg",
-  "vlink": "https://d2jffjpk3yo9rx.cloudfront.net/out/v1/23b343ae433d4de4a51400894ded5f0e/index_1.m3u8"
+  "vlink": "https://cdn05.viditnow.com/UpFiles/2021/8/22/34/196295/360p.m3u8"
 },
   {
    "teams": "Tottenham Hotspur 1-0 Wolverhampton",
@@ -22,6 +22,11 @@
   {
    "teams": "Udinese 2-2 Juventus ",
   "matchviewUrl": "https://mrfixitstips.co.uk/wp-content/uploads/2021/08/MRF2021_UdinesevJuventus.jpg",
+  "vlink": "https://c12v3.viditnow.com/UpFiles/2021/8/22/42/196287/360p.m3u8"
+  },
+  {
+   "teams": "Bayern Munich 3-3 FC Cologne ",
+  "matchviewUrl": "https://mrfixitstips.co.uk/wp-content/uploads/2021/08/MRF2021_BayernMunichvCologne.jpg",
   "vlink": "https://c12v3.viditnow.com/UpFiles/2021/8/22/42/196287/360p.m3u8"
   }
 ]
