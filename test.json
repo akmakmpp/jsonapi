@@ -1,18 +1,6 @@
 [
   {
     "type": "Live Match",
-   "teams": "Man City vs Arsenal(link1)",
-  "matchviewUrl": "https://mrfixitstips.co.uk/wp-content/uploads/2021/08/MRF2021_ManCityvArsenal.jpg",
-  "vlink": "https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8"
-  },
-  {
-    "type": "Live Match",
-   "teams": "Man City vs Arsenal(link2)",
-  "matchviewUrl": "https://mrfixitstips.co.uk/wp-content/uploads/2021/08/MRF2021_ManCityvArsenal.jpg",
-  "vlink": "https://sport.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8"
-  },
-   {
-    "type": "Live Match",
    "teams": "Man City vs Arsenal(link3)",
   "matchviewUrl": "https://mrfixitstips.co.uk/wp-content/uploads/2021/08/MRF2021_ManCityvArsenal.jpg",
   "vlink": "https://d2kn2r5zhqo18a.cloudfront.net/out/v1/837f5cb98ee047f3af7f8ce2ec7b933f/index_1.m3u8?from=other&vsid=0000000000000000000000000000000000000000000000000000000000000000&t=1630150065205&abd=1&session_data=1&preview=1"
@@ -23,24 +11,23 @@
   "matchviewUrl": "https://mrfixitstips.co.uk/wp-content/uploads/2021/08/MRF2021_ManCityvArsenal.jpg",
   "vlink": "https://d286phdtov5d8d.cloudfront.net/out/v1/1d0b4eccaec544d3bff6a2aa69853701/index_1.m3u8"
   },
-  {
-    "type": "Live Match",
-   "teams": "Man City vs Arsenal(link5)",
-  "matchviewUrl": "https://mrfixitstips.co.uk/wp-content/uploads/2021/08/MRF2021_ManCityvArsenal.jpg",
-  "vlink": "https://google-me.cdn.booyah.live/hls/113134/83218883.m3u8"
-  },
-  
 {
   "type": "Live Match",
-  "teams": "Aston Villa (8:30)  Brentford",
+  "teams": "Aston Villa vs  Brentford(link1)",
   "matchviewUrl": "https://mrfixitstips.co.uk/wp-content/uploads/2021/08/MRF2021_AstonVillavBrentford.jpg",
-  "vlink": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8"
+  "vlink": "https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8"
+},
+{
+  "type": "Live Match",
+  "teams": "Aston Villa vs  Brentford(link2)",
+  "matchviewUrl": "https://mrfixitstips.co.uk/wp-content/uploads/2021/08/MRF2021_AstonVillavBrentford.jpg",
+  "vlink": "https://google-me.cdn.booyah.live/hls/113134/83218883.m3u8"
 },
   {
     "type": "Live Match",
-   "teams": "Norwich (8:30) Leicester",
+   "teams": "Norwich vs Leicester(Need Vpn)",
   "matchviewUrl": "https://mrfixitstips.co.uk/wp-content/uploads/2021/08/MRF2021_NorwichCityvLeicesterCity.jpg",
-  "vlink": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8"
+  "vlink": "https://sport.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8"
   },
 {
   "type": "Live Match",
@@ -59,5 +46,11 @@
    "teams": "Real Betis (2:30) Real Madrid",
   "matchviewUrl": "https://mrfixitstips.co.uk/wp-content/uploads/2021/08/MRF2021_RealBetisvRealMadrid.jpg",
   "vlink": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8"
+  },
+{
+    "type": "Live Match",
+   "teams": "Man City vs Arsenal(link1)",
+  "matchviewUrl": "https://mrfixitstips.co.uk/wp-content/uploads/2021/08/MRF2021_ManCityvArsenal.jpg",
+  "vlink": "https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8"
   }
 ]
