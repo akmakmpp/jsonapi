@@ -7,9 +7,15 @@
   },
   {
     "type": "Live Match",
-   "teams": "Norwich vs Leicester(Need Vpn)",
+   "teams": "Norwich vs Leicester(link2)",
   "matchviewUrl": "https://mrfixitstips.co.uk/wp-content/uploads/2021/08/MRF2021_NorwichCityvLeicesterCity.jpg",
   "vlink": "https://google-me.cdn.booyah.live/hls/113134/83218883.m3u8"
+  },
+  {
+    "type": "Live Match",
+   "teams": "Norwich vs Leicester(link3)",
+  "matchviewUrl": "https://mrfixitstips.co.uk/wp-content/uploads/2021/08/MRF2021_NorwichCityvLeicesterCity.jpg",
+  "vlink": "https://d286phdtov5d8d.cloudfront.net/out/v1/1d0b4eccaec544d3bff6a2aa69853701/index_1.m3u8"
   },
 {
   "type": "Live Match",
@@ -30,9 +36,9 @@
   "vlink": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8"
   },
 {
-    "type": "Live Match",
-   "teams": "Man City vs Arsenal(link1)",
+    "type": "Highlights",
+   "teams": "Man City 5-0 Arsenal",
   "matchviewUrl": "https://mrfixitstips.co.uk/wp-content/uploads/2021/08/MRF2021_ManCityvArsenal.jpg",
-  "vlink": "https://d286phdtov5d8d.cloudfront.net/out/v1/1d0b4eccaec544d3bff6a2aa69853701/index_1.m3u8"
+  "vlink": "https://cdnc2.clipatmoment.com/UpFiles/2021/8/28/42/196700/720p.m3u8"
   }
 ]
